@@ -1,0 +1,40 @@
+main {
+	padding: 30px;
+}
+.container {
+	height: 500px;
+	width: 804px; /*had to add 4 extra px to account for the 4px given by the border*/
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid black;
+	
+}
+.toprow { 
+	height: 200px;
+	width: 400px;
+	border: 1px solid black;
+}
+.green {
+	background-color: green;
+	float: left;
+}
+.blue {
+	background-color:blue;
+	float: left;
+}
+.bottomrow {
+	height: 300px;
+	width: 33.33%;
+}
+.grey {
+	background-color: grey;
+	float:left;
+}
+.black {
+	background-color: black;
+	float:left;
+}
+.orange {
+	background-color: orange;
+	float: left;
+}
